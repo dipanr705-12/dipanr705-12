@@ -59,13 +59,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/memories.gif" width="800" alt="Project Memories Slideshow" />
 </div>
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/succex.png"><img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/succex.png" width="130" height="90" style="border-radius:6px; object-fit:cover;" /></a>
-  <a href="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/local-events.jpg"><img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/local-events.jpg" width="130" height="90" style="border-radius:6px; object-fit:cover;" /></a>
-  <a href="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/111.jpeg"><img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/111.jpeg" width="130" height="90" style="border-radius:6px; object-fit:cover;" /></a>
-  <a href="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/112.jpeg"><img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/112.jpeg" width="130" height="90" style="border-radius:6px; object-fit:cover;" /></a>
-  <a href="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/113.jpeg"><img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/113.jpeg" width="130" height="90" style="border-radius:6px; object-fit:cover;" /></a>
-</p>
+
 
 
 <picture>
