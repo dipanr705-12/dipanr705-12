@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <h2 align="center">📸 Project Memories</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/memories.svg" width="850" alt="Project Memories Slideshow" />
+  <img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/memories.gif" width="850" alt="Project Memories Slideshow" />
 </div>
 
 <p align="center">
