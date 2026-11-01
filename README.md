@@ -50,6 +50,25 @@ Here are some ideas to get you started:
 -->
 
 
+
+---
+
+<h2 align="center">📸 Project Memories</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/memories.svg" width="850" alt="Project Memories Slideshow" />
+</div>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/111.jpeg"><img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/111.jpeg" width="115" height="85" style="border-radius:6px; object-fit:cover;" /></a>
+  <a href="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/112.jpeg"><img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/112.jpeg" width="115" height="85" style="border-radius:6px; object-fit:cover;" /></a>
+  <a href="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/113.jpeg"><img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/113.jpeg" width="115" height="85" style="border-radius:6px; object-fit:cover;" /></a>
+  <a href="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/114.jpeg"><img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/114.jpeg" width="115" height="85" style="border-radius:6px; object-fit:cover;" /></a>
+  <a href="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/115.jpeg"><img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/115.jpeg" width="115" height="85" style="border-radius:6px; object-fit:cover;" /></a>
+  <a href="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/smart-bot.jpeg"><img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/smart-bot.jpeg" width="115" height="85" style="border-radius:6px; object-fit:cover;" /></a>
+  <a href="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/zyro.jpeg"><img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/memories/zyro.jpeg" width="115" height="85" style="border-radius:6px; object-fit:cover;" /></a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/output/github-snake.svg">
