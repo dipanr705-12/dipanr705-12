@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/banner.png" alt="Hardware Lab" width="100%" />
+</div>
+
 ## Hi there 👋
 
 ## 🌐 Socials:
