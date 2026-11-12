@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/banner_animated_v3_small.gif/banner.gif?v=1793795926" alt="Hardware Lab" width="100%" />
+  <img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/banner.gif?v=1793795926" alt="Hardware Lab" width="100%" />
 </div>
 
 ## Hi there 👋
