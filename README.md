@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/dipanr705-12/dipanr705-12/main/assets/banner.gif?v=1793795926" alt="Hardware Lab" width="100%" />
 </div>
-
+<p align="center">
+  <img src="./assets/banner.gif" alt="Hardware Lab" width="100%">
+</p>
 ## Hi there 👋
 
 ## 🌐 Socials:
